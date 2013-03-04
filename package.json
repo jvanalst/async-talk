@@ -1,0 +1,21 @@
+{
+  "name": "async-talk",
+  "version": "0.0.1",
+  "description": "A talk for Exchange.js on Async.js",
+  "dependencies": {
+    "async": "~0.1.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvanalst/async-talk.git"
+  },
+  "keywords": [
+    "async",
+    "exchange.js"
+  ],
+  "author": "Jeffrey Van Alstine",
+  "license": "BSD"
+}
